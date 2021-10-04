@@ -18,3 +18,7 @@ git clone https://github.com/ABIRHOSSAIN10/FACEBOOK-BRUTE-FORCE
 cd FACEBOOK-BRUTE-FORCE
 
 python fb-brute.py
+
+
+Author:ABIRHOSSAIN10
+credit:iamblackhacker
